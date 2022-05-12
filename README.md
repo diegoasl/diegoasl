@@ -1,0 +1,5 @@
+-#sobre mim
+- 👋 ola meu nome e @Diegoannig
+-:+1:meu email de contato e diego.annig@escola.pr.gov.br
+- 👀Eu estou interessado em aprender a progamar novas linguagens 
+- Eu estou aprendendo a progamar recentemente a linguagem de javaScript e scratch
